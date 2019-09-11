@@ -6,5 +6,7 @@ class Hello{
 			System.out.print("hello world for new Branch");
 			
 			System.out.print("hello world for new Branch");
+
+			System.out.print("hello world for new Branch");
 		}
 }	
